@@ -22,7 +22,7 @@ To run this project locally you can use docker compose provided in the repositor
 
 Clone the repository
 
-git clone https://github.com/mohamedsamara/mern-ecommerce.git
+git clone
 Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
 
 Database Seed
@@ -36,7 +36,7 @@ npm install in the project root will install dependencies in both client and ser
 
 Some basic Git commands are:
 
-git clone https://github.com/mohamedsamara/mern-ecommerce.git
+git clone
 cd project
 npm install
 ENV
